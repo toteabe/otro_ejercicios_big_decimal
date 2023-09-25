@@ -2,6 +2,9 @@ package org.iesvdm;
 
 import java.math.BigInteger;
 
+/**
+ *
+ */
 public class Factorial {
 
     private long n;
